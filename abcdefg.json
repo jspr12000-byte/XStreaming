@@ -1,0 +1,32 @@
+{
+  "vip_keys": [
+    {
+      "key": "VIP-9999-XBOX",
+      "device_id": "8c45f8e21a3b67de"
+    },
+    {
+      "key": "VIP-8888-STREAM",
+      "device_id": "3f9a2b8e7c1d0f4a"
+    }
+  ],
+  "servers": [
+    {
+      "name": "Xbox Server 1",
+      "region": "Asia Premium",
+      "sub": "Ultimate Pass - Active",
+      "zip_url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/server1.zip"
+    },
+    {
+      "name": "Xbox Server 2",
+      "region": "US VIP Ultimate",
+      "sub": "Ultimate Pass - Active",
+      "zip_url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/server2.zip"
+    },
+    {
+      "name": "Xbox Server 3",
+      "region": "Backup Server",
+      "sub": "Standard Pass",
+      "zip_url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/server3.zip"
+    }
+  ]
+}
